@@ -195,9 +195,7 @@ Retrieves the contents of all files.
     }
     ```
 
-## Testing
-
-Use Postman to test the API endpoints. The following scenarios should be tested:
+## Testing Scenerios
 
 ### Positive Scenarios
 
